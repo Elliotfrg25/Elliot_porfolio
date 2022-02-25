@@ -1,2 +1,2 @@
-# Elliot_portfolio
+# Elliot_porfolio
 Is my first portfolio
